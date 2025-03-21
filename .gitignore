@@ -2,18 +2,18 @@
 
 # dependencies
 client/node_modules/
-api/node_modules/
+server/node_modules/
 /.pnp
 .pnp.js
 
 # testing
 /coverage
 client/package-lock.json
-api/package-lock.json
+server/package-lock.json
 client/yarn.lock
-api/yarn.lock
+server/yarn.lock
 
-api/uploads/
+server/uploads/
 # next.js
 client/.next/
 /out/
